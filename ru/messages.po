@@ -1660,7 +1660,7 @@ msgstr "Ты хотя бы попытался"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "По истечении таймера <0>{actualTickPoints}</0> будут зачислены стороне с наибольшим уроном."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:462
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -2871,7 +2871,7 @@ msgstr ""
 msgid "Decrease unrest"
 msgstr ""
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Defend"
 msgstr "Защита"
 
@@ -6210,7 +6210,7 @@ msgstr "Сбросить никнейм"
 msgid "Reshuffle in"
 msgstr "Перераспределение через"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:460
 msgid "Resist"
 msgstr "Бороться"
 

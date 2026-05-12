@@ -1660,7 +1660,7 @@ msgstr "Al menos lo intentaste"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Al final del temporizador, <0>{actualTickPoints}</0> se asignarán al bando con más daño."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:462
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -2871,7 +2871,7 @@ msgstr "Disminuir"
 msgid "Decrease unrest"
 msgstr "Disminuir el malestar"
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Defend"
 msgstr "Defender"
 
@@ -6210,7 +6210,7 @@ msgstr "Restablecer nombre de usuario"
 msgid "Reshuffle in"
 msgstr "Redistribución en"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:460
 msgid "Resist"
 msgstr "Resistir"
 

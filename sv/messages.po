@@ -1660,7 +1660,7 @@ msgstr "Ett tappert försök"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "När tiden löper ut tilldelas <0>{actualTickPoints}</0> den sida som orsakat mest skada."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:462
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -2871,7 +2871,7 @@ msgstr "Minska"
 msgid "Decrease unrest"
 msgstr "Minska oroligheterna"
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Defend"
 msgstr "Försvara"
 
@@ -6210,7 +6210,7 @@ msgstr "Återställ användarnamn"
 msgid "Reshuffle in"
 msgstr "Omfördelning om"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:460
 msgid "Resist"
 msgstr "Motstånd"
 

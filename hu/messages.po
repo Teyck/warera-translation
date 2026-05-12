@@ -1660,7 +1660,7 @@ msgstr "Legalább megpróbáltad"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Az időzítő végén <0>{actualTickPoints}</0> kerül kiosztásra a legtöbb sebzéssel rendelkező oldalnak."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:462
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -2871,7 +2871,7 @@ msgstr "Csökkentés"
 msgid "Decrease unrest"
 msgstr "Nyugtalanság csökkentése"
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Defend"
 msgstr "Védelem"
 
@@ -6210,7 +6210,7 @@ msgstr "Felhasználónév visszaállítása"
 msgid "Reshuffle in"
 msgstr "Újraosztás"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:460
 msgid "Resist"
 msgstr "Ellenállj"
 

@@ -1660,7 +1660,7 @@ msgstr "على الأقل لقد حاولت"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "في نهاية المؤقت، سيتم تخصيص <0>{actualTickPoints}</0> للجانب الأكثر إحداثاً للأضرار."
 
-#: src/components/_military/hit/HitButton.tsx:466
+#: src/components/_military/hit/HitButton.tsx:462
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -2871,7 +2871,7 @@ msgstr "تقليل"
 msgid "Decrease unrest"
 msgstr "تقليل الاضطرابات"
 
-#: src/components/_military/hit/HitButton.tsx:469
+#: src/components/_military/hit/HitButton.tsx:465
 msgid "Defend"
 msgstr "دفاع"
 
@@ -6210,7 +6210,7 @@ msgstr "إعادة تعيين اسم المستخدم"
 msgid "Reshuffle in"
 msgstr "إعادة الخلط في"
 
-#: src/components/_military/hit/HitButton.tsx:464
+#: src/components/_military/hit/HitButton.tsx:460
 msgid "Resist"
 msgstr "قاوم"
 
