@@ -1864,7 +1864,7 @@ msgstr "Gewonnen Gevechten"
 msgid "Become a Candidate"
 msgstr "Word kandidaat"
 
-#: src/components/_user/kits/KitsPopover.tsx:247
+#: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
 
@@ -7987,7 +7987,7 @@ msgstr "Werknemers"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Werken voor anderen is een geweldige manier om geld te verdienen als je begint."
 
-#: src/components/_user/kits/KitsPopover.tsx:257
+#: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
 

@@ -1864,7 +1864,7 @@ msgstr "Pertempuran dimenangkan"
 msgid "Become a Candidate"
 msgstr "Jadi kandidat"
 
-#: src/components/_user/kits/KitsPopover.tsx:247
+#: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
 
@@ -7987,7 +7987,7 @@ msgstr "Pekerja"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Bekerja untuk orang lain adalah cara yang bagus untuk dapat uang saat baru mulai."
 
-#: src/components/_user/kits/KitsPopover.tsx:257
+#: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
 

@@ -1862,7 +1862,7 @@ msgstr "Lupte câștigate"
 msgid "Become a Candidate"
 msgstr "Deveniți candidat"
 
-#: src/components/_user/kits/KitsPopover.tsx:247
+#: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
 
@@ -7985,7 +7985,7 @@ msgstr "Angajați"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Munca pentru alții e o cale bună de a câștiga niște bani la început."
 
-#: src/components/_user/kits/KitsPopover.tsx:257
+#: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
 
